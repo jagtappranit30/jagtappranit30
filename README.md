@@ -1,50 +1,127 @@
-<h2 align="left">👋 Hi, I'm Pranit!<br>🌟 Currently learning Cloud Computing, Linux, and AWS.<br>💻 Passionate about building a career in technology and exploring the DevOps world.<br>📖 MBA student transitioning into the tech domain.<br>🌍 Exploring how technology can solve real-world problems.<br><br>🚀 Let’s connect and grow together!</h2>
+<h1 align="center">👋 Hey, I'm Pranit Jagtap</h1>
 
-###
+<h3 align="center">
+  MSc Cloud & Enterprise Computing Student | Aspiring Cloud & Software Engineer
+</h3>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxMmJ2Y3IxNnN6bHFoeGxoaGhiODNrNnV4cHkzdzA2bmdpZnAwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/praneet_jagtap" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://github.com/jagtappranit30">
+    <img src="https://komarev.com/ghpvc/?username=jagtappranit30&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="jagtappranit30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/jagtappranit30" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/mptgqmnmupyi1rqtqgpeb585h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mptgqmnmupyi1rqtqgpeb585h&count=5&unique=true" alt="Spotify recently played"  />
+### 👨‍💻 About Me
+
+I'm Pranit, currently pursuing an **MSc in Cloud and Enterprise Computing at Nottingham Trent University, UK**.
+
+My journey into technology has been driven by curiosity, hands-on learning, and a desire to understand how systems work behind the scenes. I'm particularly interested in cloud infrastructure, Linux, DevOps, automation, and building reliable software.
+
+I enjoy learning by building projects, experimenting with new technologies, and solving problems that reflect real-world challenges.
+
+- 🎓 MSc Cloud and Enterprise Computing — Nottingham Trent University
+- ☁️ Exploring cloud infrastructure across AWS, Microsoft Azure, and Oracle Cloud
+- 🐧 Learning Linux, networking, containerisation, and infrastructure automation
+- 🛠️ Building projects using Java, Spring Boot, Docker, and modern development tools
+- 🤖 Exploring AI, Retrieval-Augmented Generation (RAG), and local LLMs
+- 🎯 Career goal: Cloud Engineer, DevOps Engineer, or Software Engineer
+- 🌍 Based in the United Kingdom
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### ☁️ Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure" />
+</p>
+
+#### 💻 Development & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js" alt="Development technologies" />
+</p>
+
+#### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,jenkins,ansible,git,github,bash" alt="DevOps technologies" />
+</p>
+
+#### 🗄️ Databases & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,maven,vscode" alt="Databases and development tools" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 📅 NottsEvents — Student Event Booking System
+A web application designed to help students discover events, create their own events, and make bookings.
+
+**Technologies:** Java, Spring Boot, MongoDB Atlas, HTML, CSS, JavaScript, Nginx, Docker, Docker Compose.
+
+- Developed REST APIs for user registration, login, event creation, searching, and booking.
+- Integrated MongoDB Atlas for data storage.
+- Used Nginx to serve the frontend and route API requests.
+- Containerised the application using Docker and Docker Compose.
+- Integrated external APIs for location search, weather information, and nearby events.
+
+#### 🤖 Vantly AI — AI-Powered Application
+An AI-focused project exploring Retrieval-Augmented Generation (RAG) to provide responses grounded in retrieved information.
+
+**Technologies:** Python, RAG, FastEmbed, local LLMs, Ollama.
+
+- Explored document retrieval and context-aware response generation.
+- Experimented with local language models to investigate offline AI capabilities.
+- Worked on lightweight embedding solutions and evaluation of retrieval quality.
+- Investigated the practical challenges of deploying AI services with limited resources.
+
+> Check my repositories for source code, implementation details, and project updates.
+
+---
+
+### 🎓 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Introduction to Linux (LFS101)
+- Deloitte Australia Technology Job Simulation — Forage
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagtappranit30&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtappranit30&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jagtappranit30&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jagtappranit30/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/jagtappranit30" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/praneet_jagtap/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:jagtappranit30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
+
+<p align="center">
+  <i>"Learning by building, improving by experimenting, and growing one project at a time."</i>
+</p>
